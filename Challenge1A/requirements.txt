@@ -1,0 +1,4 @@
+PyMuPDF               # Official package name for fitz
+pandas
+scikit-learn
+numpy
