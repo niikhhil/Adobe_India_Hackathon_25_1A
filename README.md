@@ -66,7 +66,8 @@ Finally, the script constructs the required JSON output, containing the document
 
 ---
 
-## How to Build and Run
+
+## How to Build and Run Sample files
 
 The solution is containerized using Docker for easy and consistent execution. All commands should be run from the root directory of the project (e.g., `ADOBE_1A/`).
 
